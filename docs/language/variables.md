@@ -19,4 +19,4 @@ const p = Point { x: 0; y: 0 }
 p.x = 5 /* it works */
 ```
 
-[Next: Types](./types.md)
+[Link to next page: Types](./types.md)
