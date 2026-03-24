@@ -17,11 +17,9 @@ const p = transform(Point { x: 0; y: 0 })
 new Printer().print(p)
 ```
 
-# Warning
-Purr is still an experimental language, syntax and features may drastically change over time until the language is released.
-
 # Description
 Purr is a statically typed, multi-paradigm, bytecode-compiled language that executes on a C-based register VM, uses tracing garbage collection, and supports mostly inferred typing with explicit container element types. This repository contains the official documentation for Purr.
+> Purr is still an experimental language, syntax and features may drastically change over time until the language is released.
 
 # Philosophy
 
