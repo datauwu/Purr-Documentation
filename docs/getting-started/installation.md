@@ -4,5 +4,5 @@ purr installer coming soon
 ```
 
 ## Learn More
-- [Quick Tour](./quick-tour.md)
+- [Hello World Program](./hello-world.md)
 - [Language Reference](../language/variables.md)
