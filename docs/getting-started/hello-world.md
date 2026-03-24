@@ -11,3 +11,6 @@ Hello, world!
 ```
 
 That's it. No entry point required, top-level code runs directly.
+
+## Learn More
+- [Quick Tour](./quick-tour.md)
