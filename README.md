@@ -33,3 +33,7 @@ Purr is a statically typed, multi-paradigm, bytecode-compiled language that exec
 3. **Object-oriented**
 4. **Data-oriented**
 5. **Functional**
+
+# Learn More
+- [Installation](docs/getting-started/installation.md)
+- [Quick Tour](docs/getting-started/quick-tour.md)
