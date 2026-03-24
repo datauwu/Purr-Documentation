@@ -1,5 +1,6 @@
 # Quick Tour
 
+
 ## Variables
 ```typescript
 let foo = 67
@@ -49,5 +50,6 @@ try {
 ```typescript
 import { add } from "math"
 ```
+
 
 For full details see the [Language Reference](../language/variables.md).
