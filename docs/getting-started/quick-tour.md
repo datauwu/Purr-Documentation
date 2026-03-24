@@ -3,7 +3,7 @@
 ## Variables
 ```typescript
 let foo = 67
-const barr = "purr"
+const bar = "purr"
 ```
 
 ## Functions
