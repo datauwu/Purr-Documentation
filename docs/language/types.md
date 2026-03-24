@@ -36,6 +36,8 @@ if value is string {
 }
 ```
 
+> **Warning:** Using a union type without narrowing first may result in a compiler error.
+
 ## Nullable
 A type followed by `?` means the value can be `null`.
 ```typescript
