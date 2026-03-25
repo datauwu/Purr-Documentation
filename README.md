@@ -18,13 +18,13 @@ new Printer().print(p)
 ```
 
 # Description
-Purr is a statically typed, multi-paradigm, bytecode-compiled language that executes on a C-based register VM, uses tracing garbage collection, and supports mostly inferred typing with explicit container element types. This repository contains the official documentation for Purr.
+Purr is a statically typed, multi-paradigm, bytecode-compiled language that is primarily executed on a C-based register VM, uses tracing garbage collection, and supports mostly inferred typing with explicit container element types. This repository contains the official documentation for Purr.
 > Purr is still an experimental language, syntax and features may drastically change over time until the language is released.
 
 # Philosophy
 
 1. **Predictability** - clear syntax, unsurprising behaviour; follows the Principle of Least Astonishment.
-2. **Performance** - programs run on a C-based register VM with a design that reduces the need for JIT compilation and heavy GC checks.
+2. **Performance** - static typing enables the compiler to do the hard work ahead of time, so the runtime executes with minimal guesswork.
 3. **Approachability** - emphasizes readable syntax, sensible defaults, and mostly inferred typing, allowing developers to write safe and efficient programs without excessive boilerplate.
 
 # Paradigms
