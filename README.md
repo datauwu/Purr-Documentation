@@ -18,7 +18,7 @@ new Printer().print(p)
 ```
 
 # Description
-Purr is a lightweight, statically typed, multi-paradigm, bytecode-compiled language that primarily runs on a C-based register VM, uses tracing garbage collection, and supports mostly inferred typing with explicit container element types. This repository contains the official documentation for Purr.
+Purr is a lightweight, statically typed language that primarily runs on a C-based runtime, with a tracing garbage collector and a flexible design that supports multiple programming styles. This repository contains the official documentation for Purr.
 > Purr is still an experimental language, syntax and features may drastically change over time until the language is released.
 
 # Philosophy
